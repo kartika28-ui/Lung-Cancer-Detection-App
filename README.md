@@ -31,10 +31,10 @@ A web-based machine learning app that predicts the chances of lung cancer based 
 ## Project Structure
 
 Lung-Cancer-Detection
-- lung_cancer_app.py         # Streamlit frontend + prediction logic
-- model.pkl                  # Trained ML model (binary classifier)
-- requirements.txt           # Dependencies
-- README.md                  # Project documentation
+- lung_cancer_app.py         (Streamlit frontend + prediction logic)
+- model.pkl                (Trained ML model (binary classifier)
+- requirements.txt           (Dependencies)
+- README.md                  (Project documentation)
 
 
 ## References & Acknowledgments
