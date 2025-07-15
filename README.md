@@ -8,7 +8,6 @@ A web-based machine learning app that predicts the chances of lung cancer based 
 
 - [Tech Stack](#tech-stack-)
 - [Features](#features-)
-- [Screenshots](#screenshots-)
 - [Project Structure](#project-structure-)
 - [References & Acknowledgments](#references--acknowledgments-)
 
@@ -33,13 +32,11 @@ A web-based machine learning app that predicts the chances of lung cancer based 
 
 ## Project Structure
 
-Lung-Cancer-Detection/
-│
-├── lung_cancer_app.py         # Streamlit frontend + prediction logic
-├── model.pkl                  # Trained ML model (binary classifier)
-├── requirements.txt           # Dependencies
-├── README.md                  # Project documentation
-└── assets/                    # (Optional) Images or logos
+Lung-Cancer-Detection
+- lung_cancer_app.py         # Streamlit frontend + prediction logic
+- model.pkl                  # Trained ML model (binary classifier)
+- requirements.txt           # Dependencies
+- README.md                  # Project documentation
 
 
 ## References & Acknowledgments
