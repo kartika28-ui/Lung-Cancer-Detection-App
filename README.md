@@ -10,8 +10,6 @@ A web-based machine learning app that predicts the chances of lung cancer based 
 - [Features](#features-)
 - [Screenshots](#screenshots-)
 - [Project Structure](#project-structure-)
-- [How to Run Locally](#how-to-run-locally-)
-- [Contributing](#contributing-)
 - [References & Acknowledgments](#references--acknowledgments-)
 
 ---
@@ -32,3 +30,20 @@ A web-based machine learning app that predicts the chances of lung cancer based 
 - Clean, responsive interface using Streamlit
 - Lightweight — runs in the browser, no setup needed
 - Deployable to Streamlit Cloud with one click
+
+## Project Structure
+
+Lung-Cancer-Detection/
+│
+├── lung_cancer_app.py         # Streamlit frontend + prediction logic
+├── model.pkl                  # Trained ML model (binary classifier)
+├── requirements.txt           # Dependencies
+├── README.md                  # Project documentation
+└── assets/                    # (Optional) Images or logos
+
+
+## References & Acknowledgments
+
+- Streamlit Documentation
+- scikit-learn Documentation
+- Dataset: (kaggle)
