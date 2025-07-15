@@ -11,7 +11,6 @@ A web-based machine learning app that predicts the chances of lung cancer based 
 - [Project Structure](#project-structure-)
 - [References & Acknowledgments](#references--acknowledgments-)
 
----
 
 ## Tech Stack
 
@@ -21,7 +20,6 @@ A web-based machine learning app that predicts the chances of lung cancer based 
 - **scikit-learn** – for model building and prediction
 - **Joblib** – for loading serialized ML models
 
----
 
 ## Features
 
