@@ -1,6 +1,7 @@
 # Lung-Cancer-Detection-App
 
-<img src="[assets/form_screenshot.png](https://github.com/kartika28-ui/Lung-Cancer-Detection-App/blob/main/lung-cancer-detection.jpeg)" alt="Form Input UI" width="700"/>
+<img src="https://github.com/kartika28-ui/Lung-Cancer-Detection-App/blob/main/lung-cancer-detection.jpeg?raw=true" alt="Form Input UI" width="700"/>
+
 
 A web-based machine learning app that predicts the chances of lung cancer based on user inputs such as age, smoking habits, and health history. Built using Streamlit for instant web access — no installation required.
 
