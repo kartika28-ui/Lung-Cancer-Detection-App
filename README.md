@@ -5,7 +5,7 @@
 
 A web-based machine learning app that predicts the chances of lung cancer based on user inputs such as age, smoking habits, and health history. Built using Streamlit for instant web access — no installation required.
 
-## Deployed Link: (https://lung-cancer-detection-kartika-m.streamlit.app/)
+## Deployed Link: https://lung-cancer-detection-kartika-m.streamlit.app/
 
 ## Table of Contents
 
